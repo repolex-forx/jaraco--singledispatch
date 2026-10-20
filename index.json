@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "singledispatch",
+  "versions": [
+    {
+      "commit": "8dab473b3f7e81bcf87165e640b9f0ec3e18d5c3",
+      "tag": "",
+      "parsed_at": "2026-10-20T10:23:02.457276+00:00"
+    }
+  ]
+}
